@@ -1,8 +1,6 @@
 // Standard Imports
 import React from 'react';
 
-
-
 // Component Function =========================
 const authIndexPage = (props) => {
     
